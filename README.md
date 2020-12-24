@@ -23,7 +23,6 @@ git clone https://github.com/tai9/Gallery-App.git
 ```
 
 - Run app in Eclipse IDE
-```
 
 # Built With
 - Java Language
