@@ -19,7 +19,7 @@ cd <folder-name>
 
 - Clone this repository:
 ```
-git clone https://github.com/tai9/Gallery-App.git
+git clone https://github.com/tai9/mobile-shop-app.git
 ```
 
 - Run app in Eclipse IDE
